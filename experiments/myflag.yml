@@ -1,7 +1,0 @@
-# This file was edited by Cloudbees Feature Management
-type: experiment
-enabled: false
-flag: myflag
-value:
-  - percentage: 90
-    option: true
